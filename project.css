@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: url(pexels-johannes-plenio-1103970.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+.container{
+    width: 75%;
+    height: 60%;
+    color:white;
+    display: block;
+    position: absolute;
+    background-color:white;
+    left:10%;
+    top: 20%;
+}
+.container h1{
+    font-size: 40px;
+    margin-bottom: 23px;
+    padding: 13px 0;
+    position: relative;
+    left: 40%;
+}
+.box input{
+    width: 75%;
+    border: none;
+    outline: none;
+    position: relative;
+    background:none;
+    border-bottom: black 2px solid;
+    left: 10%;
+    margin:8px 23px;
+    padding: 5px;
+    border-radius: 6px;
+}
+.container button{
+    outline: none;
+    width: 20%;
+    padding: 6px;
+    position: relative;
+    left: 40%;
+    top:10%;
+    margin:10px 0 0 0 ;
+    border-radius: 13px;
+}
+.container i{
+    position: relative;
+    left: 10%;
+    top: 20%;
+}
